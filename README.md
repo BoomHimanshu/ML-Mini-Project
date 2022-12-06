@@ -7,4 +7,4 @@
 5.	The second least important model is `lug_boot`. If I remove it from the model and rebuild the model, then the accuracy was found to be 0.8546. It is a significant drop in the accuracy. So, I will not drop it from the model.
 6.	Confusion matrix and classification report are another tool to visualize the model performance. They yield good performance.
 
-<img src="https://drive.google.com/file/d/1ShFlRBhrSDF8H3Gk9DYzpgYxRzjXLNOM/view?usp=sharing"></img>
+<img src="https://drive.google.com/file/d/1ShFlRBhrSDF8H3Gk9DYzpgYxRzjXLNOM/view?usp=sharing">
